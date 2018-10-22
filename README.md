@@ -1,4 +1,4 @@
-# lmdf
+# La Merveille des Femmes
 
 Link to project report:
 https://w4ra.org/wp-content/uploads/2018/08/Merveille_des_femmes.pdf
